@@ -250,4 +250,8 @@ Here's a list of technologies used:
 
 ### ![connect](./luck/branding/7.png)
 
-[![Github Badge](https://img.shields.io/badge/christiecamp-yellow.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/stroking-luck)
+[![Github Badge](https://img.shields.io/badge/christiecamp-hotpink.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/stroking-luck)
+
+<a href="mailto:christiecamphoto@gmail.com">
+<img src="https://img.shields.io/badge/gmail-pink.svg?&logo=Gmail&logoColor=white" />
+</a>
