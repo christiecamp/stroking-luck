@@ -1,0 +1,52 @@
+<main class='form-signin text-center'>
+  <form id='login-form' class=''>
+    <h1 class='h3 mb-3 fw-normal text-light'>login</h1>
+    {{! will update with image }}
+
+    {{! TODO: Alert saying username or password is incorrect }}
+    {{! username & password forms }}
+    <div class='form-floating mb-3'>
+      <input
+        type='text'
+        class='form-control'
+        id='username-login'
+        placeholder='username'
+        autofocus='true'
+      />
+      <div class='invalid-feedback'>
+        Please enter a username.
+      </div>
+    </div>
+    <div class='form-floating mb-3'>
+      <input
+        type='password'
+        class='form-control'
+        id='password-login'
+        placeholder='password'
+        autofocus='true'
+      />
+      <div class='invalid-feedback'>
+        Please enter your password
+      </div>
+    </div>
+
+    <button
+      id='submit'
+      class='w-100 btn btn-lg mb-3 text-light'
+      style='background-color: skyblue;'
+      type='submit'
+    >login</button>
+    <a class='login-link text-light' href='/signup'>signup</a>
+  </form>
+</main>
+
+<div>
+  <img
+    class='rounded img-fluid w-100'
+    src='/images/octopus.png'
+    height='400px'
+  />
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+<script src='/js/login.js'></script>

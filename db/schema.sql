@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS luck_db;
+
+CREATE DATABASE luck_db;
