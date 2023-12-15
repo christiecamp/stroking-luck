@@ -245,7 +245,7 @@ Here's a list of technologies used:
 ### ![links](./luck/branding/6.png)
 
 ##### [*github repo*](https://github.com/christiecamp/stroking-luck)
-##### [*deployed app*](https://createyourownadventure-5cf1f78476c3.herokuapp.com)
+##### [*deployed app*](https://stroking-luck-4a6dbd64d0eb.herokuapp.com)
 ##### [*app presentation*](https://www.canva.com/design/DAF1sd_tCW8/cqH6jypPAPhBIU8J-uUprw/view?utm_content=DAF1sd_tCW8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ### ![connect](./luck/branding/7.png)
