@@ -242,10 +242,10 @@ Here's a list of technologies used:
 
 ### ![links](./luck/branding/6.png)
 
-##### [*github repo*](https://github.com/seeyouthursday/choose-your-own-adventure)
+##### [*github repo*](https://github.com/christiecamp/stroking-luck)
 ##### [*deployed app*](https://createyourownadventure-5cf1f78476c3.herokuapp.com)
 ##### [*app presentation*](https://www.canva.com/design/DAF1sd_tCW8/cqH6jypPAPhBIU8J-uUprw/view?utm_content=DAF1sd_tCW8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ### ![connect](./luck/branding/7.png)
 
-[![Github Badge](https://img.shields.io/badge/-yellow.svg?&logo=Github&logoColor=white)](https://github.com/seeyouthursday/choose-your-own-adventure)
+[![Github Badge](https://img.shields.io/badge/christiecamp-yellow.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/stroking-luck)
