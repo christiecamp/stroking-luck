@@ -136,7 +136,7 @@ nodemon server
 
    ##### view [demo videos](#demo) and [testing](#testing)
 
-3. Open the [application]() deployed on [Heroku](https://heroku.com/home)
+3. Open the [application](https://stroking-luck-4a6dbd64d0eb.herokuapp.com) deployed on [Heroku](https://heroku.com/home)
 4. Signup by creating a **username/password**
 5. *Create*, *update*, and *delete* stories through your dashboard
 6. *View* all stories via the dashboard
