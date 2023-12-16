@@ -167,20 +167,20 @@ There are different tools available that can test reading/writing operations in 
 
 ##### **GET** all users & stories
 ```json
-http://localhost:3001/api/user
+http://localhost:3013/api/user
 ```
 ```json
-http://localhost:3001/api/story
+http://localhost:3013/api/story
 ```
 
 ##### **GET** user by *id*
 ```json
-http://localhost:3001/api/user/1
+http://localhost:3013/api/user/1
 ```
 
 ##### **CREATE** story
 ```json
-http://localhost:3001/api/story/
+http://localhost:3013/api/story/
 ```
 ```json
 {
